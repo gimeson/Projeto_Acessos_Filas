@@ -1,0 +1,16 @@
+{
+  "Usuarios": [
+    {
+      "Id": 1,
+      "Nome": "João",
+      "Ambientes": [1]
+    }
+  ],
+  "Ambientes": [
+    {
+      "Id": 1,
+      "Nome": "Diretoria",
+      "Logs": []
+    }
+  ]
+}
